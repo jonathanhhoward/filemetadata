@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slipskid/filemetadata.git"
+    "url": "git+https://github.com/jonathanhhoward/filemetadata.git"
   },
   "author": "Jonathan Howard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/slipskid/filemetadata/issues"
+    "url": "https://github.com/jonathanhhoward/filemetadata/issues"
   },
-  "homepage": "https://github.com/slipskid/filemetadata#readme",
+  "homepage": "https://jhhoward-filemetadata.glitch.me",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
